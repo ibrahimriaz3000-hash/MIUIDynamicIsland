@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Pill</string>
+    <string name="xposed_desc">Permanent Dynamic Island style pill over the camera hole (System UI).</string>
+</resources>
